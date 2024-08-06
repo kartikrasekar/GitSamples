@@ -1,2 +1,1 @@
 create file for USer-26
-Adding dsome new function from userstory 2
